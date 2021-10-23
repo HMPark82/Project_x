@@ -6,7 +6,7 @@ from Get_Data import phemex_data
 from Bias_Function import bias_function
 from Order_Function import order_function
 
-my_qty = 2000
+my_qty = 1000
 
 cred = my_settings()
 
